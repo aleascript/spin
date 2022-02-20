@@ -1,0 +1,210 @@
+= SPIN
+aleascript@gmail.com
+Version 0.2
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: SPIN est un jeu de rôles générique
+:keywords: JdR, Solo
+:imagesdir: ./img
+image::licence.png[]
+
+== Généralités
+
+1. Où (piece calme, table),
+2. Qui (1 à n joueurs),
+3. Quoi (raconter une histoire en conversant),
+4. Comment (cadrer par des regles): résolution, orientation
+5. Combien (pas de stats mais l'utilisation de d6),
+6. Pourquoi (immersion dans un monde, dans la peau d'un protagoniste...) Évolution
+
+== Eléments de base du jeu
+
+=== Les traits
+
+=== Les jauges
+
+=== Le Destin
+
+== CORE
+
+=== Converser
+
+=== Orienter le récit
+
+==== Jets d'orientation
+
+Cf Table d'orientation
+
+==== Canevas
+
+===== Groupe, faction
+
+1. Quartiers generaux
+2. Membres du groupe
+3. Alliés et ennemis du groupe, relations au sein du groupe
+4. Hiérarchie du groupe, gouvernance
+5. Ressources et moyens du groupe
+6. Objectif(s) du groupe
+
+===== Culture
+
+1. Universaliste ? Globalisant ou pas ?
+2. Neutre, austère ou émotionnel, passionné ?
+3. Règles sociales strictes ou flexibles ?
+4. Individualisme ou collectivisme ?
+5. Mérite ou lignage?
+6. Raison ou croyance / temps séquentiel ou temps synchrone
+
+===== Objet
+
+1. Apparence particulière
+2. Utilité, impact de l'objet
+3. Comment l'utiliser ?
+4. A t'il de la valeur ? Rareté ?
+5. S'use t'il ? Entretien, etc ....
+6. A t'il un secret ?
+
+===== Lieu
+
+1. L'arrivée, l'aspect extérieur
+2. Les caractéristiques intérieures  (architecture, déco, style, ambiance)
+3. L'usage du lieu, les habitants du lieu
+4. Les alentours du lieu
+5. Les opportunités du lieu
+6. Les secrets du lieu (histoire, passages secrets, etc...)
+
+===== Sens
+
+1. Début d'une sensation (picotement, odeur,...)
+2. Sens immédiat, réel (tu vois, tu sens, ...)
+3. C'est un autre qui sent
+4. Un sens puissant (très chaud, très froid, pestilentiel)
+5. Perte du sens (aveuglé, sourd...)
+6. Au delà du sens, 6eme sens, sens contradictoire
+
+===== Template
+
+1. Où ? Debut, Surface, Origine, Terreau
+2. Qui ? Base, Coeur, Principal, Acteur
+3. Quoi ? Interaction, Relations
+4. Comment ? Hiérarchie, Organisation
+5. Combien ? Moyens, Ressources
+6. Pourquoi ? Autre, Inattendu, Caché, Inattendu
+
+
+
+===== Plan de campagne
+
+1. Meeting
+2. Ralliements, alliances
+3. Déclaration choc
+4. Laver son image
+5. Récolte de fonds
+6. Révéler scandale
+
+===== Événements de campagne
+
+1. Découverte : réagir à l'actualité du jour
+2. Pris a parti : poignardé, trahi
+3. Mission : attaqué par un autre candidat
+4. Hors-champ : ce que font les autres engendre une baisse dans les sondages
+5. Contretemps : signatures, financement, probleme d'organisation, de management
+6. Rebondissement : éclaboussé par un scandale
+
+=== Résoudre
+
+==== Facteurs clés
+
+==== Influence du Destin
+
+==== Jets de des
+
+==== Résultat
+
+1. Exploit
+2. Succès
+3. Succès partiel
+4. Echec partiel
+5. Échec
+6. Fiasco
+
+==== Fortunes
+
+==== Coups du sort
+
+1. Découverte
+2. Pris a parti
+3. Mission
+4. Hors-champ
+5. Contretemps
+6. Rebondissement
+
+
+=== Évoluer
+
+== Jouer
+
+=== Déterminer le genre
+
+1. Réel ou imaginaire ? Époque ?
+2. Humain ou non humain ?
+3. Action ou social ?
+4. Puissant ou lambda ?
+5. Foisonnant ou aride ? Sauvage ou exploité ?
+6. Surnaturel ou pas ?
+
+===  Créer le monde et les héros
+
+En parallèle
+
+==== Créer le monde
+
+1. Le lieu
+2. Les habitants
+3. Le contexte societal
+4. Les pouvoirs en place, les opposants
+5. L'économie, les ressources
+6. Les mystères, les croyances, les secrets
+
+==== Créer un héros
+
+1. Son apparence, ses origines
+2. Son occupation
+3. Ses forces et faiblesses
+4. Ses relations, son caractère, son groupe de héros éventuellement
+5. Ses possessions et moyens
+6. Ses valeurs, croyances, cultes, magie, objectifs
+
+
+=== Scène(s) de présentation
+
+=== Le récit
+
+=== Options de la Destinée
+
+1. Créer un monde realiste et un récit cohérent.
+2. Questionner les héros
+3. Résoudre via une opposition
+4. Utiliser le Destin pour orienter le récit
+5. Procéder un jet d'orientation
+6. Révéler un coup du sort
+
+=== Options des Héros
+
+1. Visualiser la scène
+2. Penser, parler comme le Héros
+3. Tenter quelque chose
+4. Poser des questions à la Destinée
+5. Utiliser une fortune
+6. Demander une résolution
+
+
+== Règles avancées
+
+=== Niveaux héroïques et mythiques
+
+=== Deus ex machina
+
