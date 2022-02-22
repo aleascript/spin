@@ -30,7 +30,7 @@ Les éléments de base que nous détaillerons plus loin sont les suivants:
 
 * Les **Fortunes**: les fortunes sont obtenues par les protagonistes dans certains cas et permettent par la suite d'agir sur l'histoire et/ou de faire évoluer leur personnage. On peut les matérialiser par des jetons. _Exemple: Fortunes: 4 ou 4 jetons_
 
-* Les **Coups du sort**: les coups du sort sont l'inverse des fortunes et sont obtenus en cas de fiasco ou d'exploit. Ils se matérialisent par une carte que la Destinée garde secrète jusqu'à ce qu'elle choisisse de l'utiliser dans le récit.
+* Les **Coups du sort**: les coups du sort sont l'inverse des fortunes et sont obtenus en cas de fiasco ou d'exploit. Ils se matérialisent par des cartes que la Destinée garde secrètes jusqu'à ce qu'elle choisisse de les utiliser dans le récit.
 
 * Le **Destin**: le Destin est un élément géré par un des joueurs. Le Destin est unique et partagé par tous les joueurs mais sa valeur est inconnue des Protagonistes. Il permet de proposer des difficultés réalistes et cohérentes avec le rythme de l'histoire en fonction des choix des protagonistes. Quand le Destin est négatif, c'est que les protagonistes ne prennent pas beaucoup de risques et dans ce cas, il faut corser les obstacles et s'il est positif, c'est le cas inverse. _Exemple: Destin: -3_
 
