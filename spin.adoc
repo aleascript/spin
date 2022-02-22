@@ -153,17 +153,9 @@ Dans ce cas, côté obstacle, on a donc un certain nombre de facteurs clés qu'i
 
 _Exemples d'obstacles non personnifiés:_
 
-*Résoudre une enquête*
+* _Résoudre une enquête: le coupable, le mobile, le mode opératoire_
+* _Fabriquer une potion: un laboratoire, des ingrédients, une recette_
 
-1. Le coupable
-2. Le mobile
-3. Le mode opératoire
-
-*Fabriquer une potion*
-
-1. Labo
-2. Ingrédients
-3. Recette
 
 ===== Joueur contre joueur
 
