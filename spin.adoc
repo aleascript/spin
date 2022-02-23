@@ -1,6 +1,6 @@
 = SPIN
 aleascript@gmail.com
-Version 0.2
+Version 0.1
 :doctype: book
 //:sectnums:
 :toc:
@@ -258,6 +258,8 @@ Très répandu dans le jeu de rôles, il s'agit de piller les ressources de l'ad
 * Quand le protagoniste est favori, on gagne 1 point de fortune en cas de fiasco.
 * Quand le protagoniste est l'outsider de l'opposition, on gagne 1 point de fortune en cas d'exploit.
 
+<<<
+
 ==== Coups du sort
 
 Les coups du sort sont l'inverse des fortunes.
@@ -267,7 +269,7 @@ Les coups du sort sont l'inverse des fortunes.
 
 Le Destin souhaitant toujours revenir l'équilibre, il est attiré par les situations trop évidentes. Et pour changer les choses, il fournit dans ces cas des Coups du sort à la Destinée que celle-ci pourra utiliser pour changer l'ordre des choses. Ainsi quand on attire l'attention du Destin, on pioche une carte Coup du Sort (parmi les 6 possibles):
 
-[.stripes-even,cols="1,20"]
+[.stripes-even,cols="1,20",%unbreakable]
 |===
 |1|Découverte
 |2|Pris a parti
@@ -304,6 +306,8 @@ Pour orienter le récit de manière qualitative, la Destinée peut utiliser un C
 
 Il arrive pour autant que l'orientation du récit nécessite d'avoir plus d'informations. Dans ce cas, on pourra utiliser les jets d'orientation.
 
+<<<
+
 ==== Jets d'orientation
 
 Les jets d'orientation sont la plupart du temps à l'initiative de la Destinée mais lancés par un des Protagonistes.
@@ -321,6 +325,8 @@ Vous trouverez ci-dessous une table représentant un certain nombre de catégori
 Ainsi lorsque la Destinée demande un jet d'orientation, il n'a plus qu'à se focaliser sur l'interprétation qu'il veut en donner en lisant la table.
 
 image::orientations.png[]
+
+<<<
 
 ==== Canevas
 
@@ -408,6 +414,8 @@ Un canevas générique qui reprend tout simplement le sens des six.
 
 Voici deux canevas un peu atypiques pour illustrer à quel point le modèle en six peut être fécond en terme de jeu:
 
+<<<
+
 ===== Plan de campagne
 
 Un canevas pour les actions possibles d'un candidat lors d'une campagne politique.
@@ -472,6 +480,8 @@ On peut répondre à toutes les questions de maniere collégiale ou de manière 
 
 A la fin, on discute des réponses pour déterminer le genre.
 
+<<<
+
 ===  Créer le monde et les protagonistes
 
 En parallèle, Destinée et Protagonistes procède à la création.
@@ -513,6 +523,8 @@ Ce canevas de création de personnage est très ouvert et peut être utilisé po
 Les scènes de présentation sont optionnelles mais permettent de rentrer dans le jeu et dans la mécanique de jeu.
 
 Lorsque le monde et les protagonistes sont prêts, on peut jouer une scène de présentation. La scène peut être jouée dans le passé lointain ou dans un passé proche. Peu importe, cela permet de se rôder un peu avec la mécanique de jeu. Idéalement, la scène de présentation devrait contenir une opposition. On ne décompte pas le Destin dans les scènes de présentation. Le cadre (setting) de la scène peut venir du joueur ou de la Destinée.
+
+<<<
 
 === Le récit
 
