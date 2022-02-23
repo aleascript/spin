@@ -220,12 +220,15 @@ _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. O
 
 ==== Interprétation
 
-1. **Exploit** (_Waouh_, _Formidable_): _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait, impact fictionnel exceptionnel).
-2. **Succès** (_Réussi_): _(OUI)_ l'objectif est atteint. L'impact fictionnel est positif.
-3. **Succès partiel** (_Mitigé_): _(OUI MAIS)_ l'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
-4. **Echec partiel** (_Gêné_): _(NON MAIS)_ l'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus).
-5. **Echec** (_Raté_): _(NON)_ l'objectif n'est pas atteint. Suivant la fiction, on peut subir une perte. L'impact fictionnel est négatif.
-6. **Fiasco** (_Oups_, _Déplorable_): _(NON ET)_ l'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait, impact fictionnel désastreux).
+[.stripes-even,cols="1,3,3,2,10"]
+|===
+|1| **Exploit** | _Waouh_, _Formidable_ | OUI ET | L'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait, impact fictionnel exceptionnel).
+|2|**Succès** | _Réussi_ | OUI | L'objectif est atteint. L'impact fictionnel est positif.
+|3|**Succès partiel** | _Mitigé_ | OUI MAIS | L'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
+|4|**Echec partiel** |_Gêné_| NON MAIS | L'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus).
+|5|**Echec** | _Raté_| NON | L'objectif n'est pas atteint. Suivant la fiction, on peut subir une perte. L'impact fictionnel est négatif.
+|6|**Fiasco** |_Oups_, _Déplorable_ | NON ET | L'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait, impact fictionnel désastreux).
+|===
 
 Les différents résultats sont dans la main de la Destinée. Il peut proposer des options mais c'est lui qui décide s'il y a lieu de proposer la fin de l'opposition ou pas ou s'il pense qu'à ce moment là ca serait bien de continuer.
 
@@ -264,16 +267,19 @@ Les coups du sort sont l'inverse des fortunes.
 
 Le Destin souhaitant toujours revenir l'équilibre, il est attiré par les situations trop évidentes. Et pour changer les choses, il fournit dans ces cas des Coups du sort à la Destinée que celle-ci pourra utiliser pour changer l'ordre des choses. Ainsi quand on attire l'attention du Destin, on pioche une carte Coup du Sort (parmi les 6 possibles):
 
-1. Découverte
-2. Pris a parti
-3. Mission
-4. Hors-champ
-5. Contretemps
-6. Rebondissement
+[.stripes-even,cols="1,20"]
+|===
+|1|Découverte
+|2|Pris a parti
+|3|Mission
+|4|Hors-champ
+|5|Contretemps
+|6|Rebondissement
+|===
 
 La Destinée ne montre pas la carte Coup du Sort aux autres joueurs qu'elle a tirée et la conserve jusqu'à ce qu'elle soit jouée. La Destinée peut accumuler plusieurs cartes tant qu'elle ne les joue pas. Evidemment elle ne pourra avoir qu'au maximum 6 cartes, soit l'étendue complète des possibilités en terme de Coups du sort.
 
-===== Utilisation des fortunes
+==== Utilisation des fortunes
 
 A tout moment:
 
@@ -328,59 +334,77 @@ Notez également trois autres canevas importants qui seront vus plus loin: le ge
 
 ===== Groupe, faction
 
-1. Quartiers généraux
-2. Membres du groupe
-3. Alliés et ennemis du groupe, relations au sein du groupe
-4. Hiérarchie du groupe, gouvernance
-5. Ressources et moyens du groupe
-6. Objectif(s) du groupe
+[.stripes-even,cols="1,20"]
+|===
+|1|Quartiers généraux
+|2|Membres du groupe
+|3|Alliés et ennemis du groupe, relations au sein du groupe
+|4|Hiérarchie du groupe, gouvernance
+|5|Ressources et moyens du groupe
+|6|Objectif(s) du groupe
+|===
 
 ===== Culture
 
-1. Universaliste ? Globalisant ou pas ?
-2. Neutre, austère ou émotionnel, passionné ?
-3. Règles sociales strictes ou flexibles ?
-4. Individualisme ou collectivisme ?
-5. Mérite ou lignage?
-6. Raison ou croyance / temps séquentiel ou temps synchrone
+[.stripes-even,cols="1,20"]
+|===
+|1|Universaliste ? Globalisant ou pas ?
+|2|Neutre, austère ou émotionnel, passionné ?
+|3|Règles sociales strictes ou flexibles ?
+|4|Individualisme ou collectivisme ?
+|5|Mérite ou lignage?
+|6|Raison ou croyance / temps séquentiel ou temps synchrone
+|===
 
 ===== Objet
 
-1. Apparence particulière
-2. Utilité, impact de l'objet
-3. Comment l'utiliser ?
-4. A t'il de la valeur ? Rareté ?
-5. S'use t'il ? Entretien, etc ....
-6. A t'il un secret ?
+[.stripes-even,cols="1,20"]
+|===
+|1|Apparence particulière
+|2|Utilité, impact de l'objet
+|3|Comment l'utiliser ?
+|4|A t'il de la valeur ? Rareté ?
+|5|S'use t'il ? Entretien, etc ....
+|6|A t'il un secret ?
+|===
 
 ===== Lieu
 
-1. L'arrivée, l'aspect extérieur
-2. Les caractéristiques intérieures  (architecture, déco, style, ambiance)
-3. L'usage du lieu, les habitants du lieu
-4. Les alentours du lieu
-5. Les opportunités du lieu
-6. Les secrets du lieu (histoire, passages secrets, etc...)
+[.stripes-even,cols="1,20"]
+|===
+|1|L'arrivée, l'aspect extérieur
+|2|Les caractéristiques intérieures  (architecture, déco, style, ambiance)
+|3|L'usage du lieu, les habitants du lieu
+|4|Les alentours du lieu
+|5|Les opportunités du lieu
+|6|Les secrets du lieu (histoire, passages secrets, etc...)
+|===
 
 ===== Sens
 
-1. Début d'une sensation (picotement, odeur,...)
-2. Sens immédiat, réel (tu vois, tu sens, ...)
-3. C'est un autre qui sent
-4. Un sens puissant (très chaud, très froid, pestilentiel)
-5. Perte du sens (aveuglé, sourd...)
-6. Au delà du sens, 6eme sens, sens contradictoire
+[.stripes-even,cols="1,20"]
+|===
+|1|Début d'une sensation (picotement, odeur,...)
+|2|Sens immédiat, réel (tu vois, tu sens, ...)
+|3|C'est un autre qui sent
+|4|Un sens puissant (très chaud, très froid, pestilentiel)
+|5|Perte du sens (aveuglé, sourd...)
+|6|Au delà du sens, 6eme sens, sens contradictoire
+|===
 
 ===== Template
 
 Un canevas générique qui reprend tout simplement le sens des six.
 
-1. Où ? Debut, Surface, Origine, Terreau
-2. Qui ? Base, Coeur, Principal, Acteur
-3. Quoi ? Interaction, Relations
-4. Comment ? Hiérarchie, Organisation
-5. Combien ? Moyens, Ressources
-6. Pourquoi ? Autre, Inattendu, Caché, Inattendu
+[.stripes-even,cols="1,3,20"]
+|===
+|1|Où ?| Début, Surface, Origine, Terreau
+|2|Qui ?| Base, Coeur, Principal, Acteur
+|3|Quoi ?| Interaction, Relations
+|4|Comment| ? Hiérarchie, Organisation
+|5|Combien ?| Moyens, Ressources
+|6|Pourquoi ?| Autre, Inattendu, Caché, Inattendu
+|===
 
 Voici deux canevas un peu atypiques pour illustrer à quel point le modèle en six peut être fécond en terme de jeu:
 
@@ -388,24 +412,29 @@ Voici deux canevas un peu atypiques pour illustrer à quel point le modèle en s
 
 Un canevas pour les actions possibles d'un candidat lors d'une campagne politique.
 
-1. Meeting
-2. Ralliements, alliances
-3. Déclaration choc
-4. Laver son image
-5. Récolte de fonds
-6. Révéler un scandale
+[.stripes-even,cols="1,20"]
+|===
+|1|Meeting
+|2|Ralliements, alliances
+|3|Déclaration choc
+|4|Laver son image
+|5|Récolte de fonds
+|6|Révéler un scandale
+|===
 
 ===== Événements de campagne
 
 Un canevas qui donne des pistes pour générer les coups du sort politiques.
 
-1. Découverte : réagir à l'actualité du jour
-2. Pris a parti : poignardé, trahi
-3. Mission : attaqué par un autre candidat
-4. Hors-champ : ce que font les autres engendre une baisse dans les sondages
-5. Contretemps : signatures, financement, probleme d'organisation, de management
-6. Rebondissement : éclaboussé par un scandale
-
+[.stripes-even,cols="1,20"]
+|===
+|1|Découverte : réagir à l'actualité du jour
+|2|Pris a parti : poignardé, trahi
+|3|Mission : attaqué par un autre candidat
+|4|Hors-champ : ce que font les autres engendre une baisse dans les sondages
+|5|Contretemps : signatures, financement, probleme d'organisation, de management
+|6|Rebondissement : éclaboussé par un scandale
+|===
 
 === Évoluer
 
@@ -431,12 +460,15 @@ Voici un canevas en 6 questions pour aider à déterminer un genre.
 
 On peut répondre à toutes les questions de maniere collégiale ou de manière individuelle en tirant une carte de 6 jusqu'à ce que l'ensemble des cartes aient été passées.
 
-1. Réel ou imaginaire ? Époque ?
-2. Humain ou non humain ?
-3. Action ou social ?
-4. Puissant ou lambda ?
-5. Foisonnant ou aride ? Sauvage ou exploité ?
-6. Surnaturel ou pas ?
+[.stripes-even,cols="1,20"]
+|===
+|1|Réel ou imaginaire ? Époque ?
+|2|Humain ou non humain ?
+|3|Action ou social ?
+|4|Puissant ou lambda ?
+|5|Foisonnant ou aride ? Sauvage ou exploité ?
+|6|Surnaturel ou pas ?
+|===
 
 A la fin, on discute des réponses pour déterminer le genre.
 
@@ -452,24 +484,29 @@ Au fur et à mesure qu'on définit un élément, on en informe les autres pour q
 
 Il ne s'agit pas d'être exhaustif mais de dresser ce que tout le monde connait ou ce que tout protagoniste connait du monde.
 
-1. Le lieu
-2. Les habitants
-3. Le contexte societal
-4. Les pouvoirs en place, les opposants
-5. L'économie, les ressources
-6. Les mystères, les croyances, les secrets
+[.stripes-even,cols="1,20"]
+|===
+|1|Le lieu
+|2|Les habitants
+|3|Le contexte sociétal
+|4|Les pouvoirs en place, les opposants
+|5|L'économie, les ressources
+|6|Les mystères, les croyances, les secrets
+|===
 
 ==== Créer un personnage
 
 Ce canevas de création de personnage est très ouvert et peut être utilisé pour créer un personnage non joueur (PNJ)
 
-1. Son apparence, ses origines
-2. Son occupation
-3. Ses forces et faiblesses
-4. Ses relations, son caractère, son groupe de héros éventuellement
-5. Ses possessions et moyens
-6. Ses valeurs, croyances, cultes, magie, objectifs
-
+[.stripes-even,cols="1,20"]
+|===
+|1|Son apparence, ses origines
+|2|Son occupation
+|3|Ses forces et faiblesses
+|4|Ses relations, son caractère, son appartenance à un groupe éventuellement
+|5|Ses possessions et moyens
+|6|Ses valeurs, croyances, cultes, magie, objectifs
+|===
 
 === Scène(s) de présentation
 
@@ -485,22 +522,27 @@ Vous trouverez ci-dessous un memento pour la Destinée et les Protagonistes.
 
 === Options de la Destinée
 
-1. Créer un monde realiste et un récit cohérent.
-2. Questionner les héros
-3. Résoudre via une opposition
-4. Utiliser le Destin pour orienter le récit
-5. Procéder un jet d'orientation
-6. Révéler un coup du sort
+[.stripes-even,cols="1,20"]
+|===
+|1|Créer un monde realiste et un récit cohérent.
+|2|Questionner les héros
+|3|Résoudre via une opposition
+|4|Utiliser le Destin pour orienter le récit
+|5|Procéder un jet d'orientation
+|6|Révéler un coup du sort
+|===
 
 === Options des Protagonistes
 
-1. Visualiser la scène
-2. Penser, parler comme le Protagoniste
-3. Tenter quelque chose
-4. Poser des questions à la Destinée
-5. Utiliser une fortune
-6. Demander une résolution
-
+[.stripes-even,cols="1,20"]
+|===
+|1|Visualiser la scène
+|2|Penser, parler comme le Protagoniste
+|3|Tenter quelque chose
+|4|Poser des questions à la Destinée
+|5|Utiliser une fortune
+|6|Demander une résolution
+|===
 
 == Règles avancées
 
