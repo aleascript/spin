@@ -13,21 +13,43 @@ image::licence.png[]
 
 == Généralités
 
-Spin est un jeu de rôle sur table (ou TTRPG - Table top Role playing Game en anglais).
+Spin est un jeu de rôle sur table (ou TTRPG - Table top Role playing Game en anglais) pour 1 à n joueurs.
 
-Le jeu se joue donc autour d'une table.
+Les règles sont adaptées pour le mode solo mais dans les autres cas, un des joueurs incarne la Destinée et les autres incarnent les Protagonistes (ou respectivement meneur de jeu - MJ et personnages joueur - PJ selon la terminologie habituelle des jeux de rôles).
 
-Le jeu se joue de 1 à n joueurs. En effet, les règles sont tout à fait adaptées pour le mode solo. Un des joueurs incarne la Destinée et les autres sont les Protagonistes (ou respectivement meneur de jeu - MJ et personnages joueur - PJ selon la terminologie habituelle des jeux de rôles).
+Le principe du jeu est de raconter collectivement une histoire en suivant les règles du jeu pour déterminer les différents embranchements possibles à donner à l'histoire.
 
-Le principe du jeu est de raconter collectivement une histoire en conversant.
-
-Pour éviter que tout le monde ne raconte pas n'importe quoi, Spin propose des règles pour orienter l'histoire dans telle ou telle direction et des règles pour résoudre les différents conflits auxquels seront exposés les Protagonistes.
+En effet, Spin propose des règles pour orienter l'histoire dans telle ou telle direction et des règles pour résoudre les différents conflits auxquels seront exposés les Protagonistes.
 
 Contrairement aux autres jeux de rôles habituels, Spin n'utilise pas de statistiques. Mais pour autant Spin s'appuie sur des dés à six faces (d6). Pour jouer il vous faudra des dés rouges et bleus (1 dizaine de chaque) ainsi que des jetons, des feuilles blanches, des crayons et des cartes numérotées de 1 à 6 (Fabriquer 2 jeux).
 
 En résumé, Spin permet aux Protagonistes de s'immerger dans un récit que fait émerger la Destinée.
 
-== Eléments de base du jeu
+== CORE
+
+Le système de jeu va être présenté par les 4 couches suivantes:
+
+* La *conversation* entre les joueurs
+* L'*organisation* des différentes ressources de jeu
+* La *résolution* des oppositions
+* L'*évolution* du récit et des Protagonistes
+
+Bien que l'acronyme CORE soit séduisant, nous allons présenter les différents concepts dans l'ordre suivant: Converser, Résoudre, Orienter et Evoluer.
+
+== Converser
+
+Un jeu de rôles sur table est avant tout un jeu social basé sur la conversation.
+
+La conversation a lieu de la Destinée vers les Protagonistes mais aussi des Protagonistes vers la Destinée et également des Protagonistes entre eux.
+
+Chaque table trouvera son point d'équilibre et aura ses préférences mais voici quelques outils qui peuvent aider la conversation:
+
+* Posez des questions pour clarifier le cadre de l'imagination collective.
+* Faites des propositions narratives en faisant des suggestions, en gros tendez la perche.
+
+== Organiser
+
+=== Eléments de base du jeu
 
 Les éléments de base que nous détaillerons plus loin sont les suivants:
 
@@ -64,6 +86,22 @@ Pas besoin de noter quel type de traits il s'agit quand il est inscrit mais cett
 * Phrase, expression type
 * Simple / Composite
 
+==== Des traits OSR Like
+
+On peut tout à fait envisager d’utiliser un modèle à caractéristiques de type OSR (en plus d’autres traits plus spécifiques).
+
+* FOR, DEX, CHAR, INT, CON, SAG
+* Physique, Mental, Esprit
+
+Cela peut avoir une incidence sur la création du personnage.
+
+Exemples:
+
+* A 6 caractéristiques, choisir 2 traits forts et 1 trait faible.
+* A 3 caractéristiques, choisir 1 trait fort et 1 trait faible.
+
+C'est réducteur mais efficace pour caractériser rapidement un personnage (protagoniste ou obstacle).
+
 === Les jauges
 
 Les jauges mesurent l'épuisement d'un état ou d'une ressource quelconque.
@@ -73,6 +111,18 @@ Elles se mesurent sur 3 niveaux:
 * I: dégradée
 * II: faible
 * [.line-through]#II#: épuisée
+
+Les jauges avancent de manière graduelle: une graduation qui initie le niveau et une autre qui le valide.
+
+_Exemples:_
+
+* _Blessé [ ] équivaut à 0_
+* _Blessé [x] équivaut à I_
+* _Blessé [x][ ] équivaut à I_
+* _Blessé [x][x] équivaut à II_
+* _Blessé [x][x][ ] équivaut à II_
+* _Blessé [x][x][x] équivaut à [.line-through]#II#_
+
 
 Généralement un état à [.line-through]#II#: signifie la fin du protagoniste.
 Alors qu'une ressource à [.line-through]#II#: signifie plutôt l'impossibilité de réaliser des actions en lien avec cette ressource.
@@ -84,7 +134,13 @@ Une jauge influence aussi les oppositions:
 * Une jauge à I donne 1D de malus
 * Une jauge à II donne 2D de malus
 
-De plus, on peut créer des jauges positives pour mesurer un avancement positif (une montée en grade par exemple). Par contre, ces jauges positives ne donnent pas de dé de bonus.
+De plus, on peut créer des jauges positives pour mesurer un avancement positif (une montée en grade par exemple). Par contre, ces jauges positives ne donnent pas de dé de bonus. On appelle ce type de jauge des progressions.
+
+===== Modes de progression des jauges
+
+Par défaut, nous avons vu que les jauges évoluent de 2 en 2.
+
+Pour autant, la Destinée peut envisager des modes d'évolution de 1 en 1 (mode extrême ou difficile) ou de 3 en 3 (mode facile ou safe). Ces modes peuvent correspondre à un type de lieu dans la fiction (mode extrême dans un plan divin par exemple et mode safe dans la réalité virtuelle...).
 
 === Le Destin
 
@@ -96,34 +152,207 @@ C'est un nombre qui vaut zéro en début de partie et peut être ensuite négati
 
 Le joueur en charge de gérer le Destin est appelé la Destinée.
 
-== CORE
 
-Le système de jeu peut se résumer à ces 4 concepts:
+=== Ressources du jeu
 
-* Conversation entre les joueurs
-* Orienter le récit
-* Résoudre les conflits ou tout autre opposition
-* Evolution du récit et des Protagonistes
+Les Protagonistes et la Destinée auront à leur disposition:
 
-Bien que l'acronyme CORE soit séduisant, nous allons présenter les différents concepts dans l'ordre suivant: Converser, Résoudre, Orienter et Evoluer.
+* Des feuilles correspondant au canevas de l'élément fictionnel dont ils ont la responsabilité.
+    - Les Protagonistes n'auront devant eux que la fiche de Protagoniste (canevas Personnage) et éventuellement la fiche de groupe (canevas Groupe) s'ils appartiennent à un groupe.
+    - La Destinée aura devant elle les fiches de monde, de drama et divers canevas selon les éléments fictionnels introduits. La Destinée maintiendra également une liste des enjeux au fur et à mesure qu'ils émergent.
+* Des feuilles vierges pour la prise de notes.
+* Des dés (bleus pour les protagonistes, rouges pour la Destinée).
+* Les dés du destin (bleus ou rouges) pour la Destinée.
 
-=== Converser
+==== Les canevas
 
-Un jeu de rôles sur table est avant tout un jeu social basé sur la conversation.
+Les canevas sont des fiches permettant de développer un élément fictionnel selon 6 axes.
 
-La conversation a lieu de la Destinée vers les Protagonistes mais aussi des Protagonistes vers la Destinée et également des Protagonistes entre eux.
+Pour six axes ?
+1. Car selon correspond au 6 faces d'un dé.
+2. Cela correspond aussi aux 6 questions de base Où/Qui/Quoi/Comment/Combien/Pourquoi.
 
-Chaque table trouvera son point d'équilibre et aura ses préférences mais voici quelques outils qui peuvent aider la conversation:
+Dans une histoire improvisée, les canevas sont souvent incomplets à leur création et c'est tout l'enjeu de la partie de les compléter au fur et à mesure des scènes.
 
-* Posez des questions pour clarifier le cadre de l'imagination collective
-* Faites des propositions narratives en faisant des suggestions, en gros tendez la perche.
+En procédant ainsi, on voit mieux où sont les blancs à combler et c'est plus facile pour la Destinée d'improviser l'histoire.
+
+<<<
+
+==== Canevas Personnage
+
+Ce canevas de création de personnage est très ouvert et peut être utilisé pour créer un personnage non joueur (PNJ)
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Son apparence, ses origines
+|2|Son occupation
+|3|Ses forces et faiblesses
+|4|Ses relations, son caractère, son appartenance à un groupe éventuellement
+|5|Ses possessions et moyens
+|6|Ses valeurs, croyances, cultes, magie, objectifs
+|===
+
+==== Canevas Groupe, faction
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Quartiers généraux
+|2|Membres du groupe
+|3|Alliés et ennemis du groupe, relations au sein du groupe
+|4|Hiérarchie du groupe, gouvernance
+|5|Ressources et moyens du groupe
+|6|Objectif(s) du groupe
+|===
+
+==== Canevas Lieu
+
+[.stripes-even,cols="1,20"]
+|===
+|1|L'arrivée, l'aspect extérieur
+|2|Les caractéristiques intérieures  (architecture, déco, style, ambiance)
+|3|L'usage du lieu, les habitants du lieu
+|4|Les alentours du lieu
+|5|Les opportunités du lieu
+|6|Les secrets du lieu (histoire, passages secrets, etc...)
+|===
+
+==== Canevas Culture
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Universaliste ? Globalisant ou pas ?
+|2|Neutre, austère ou émotionnel, passionné ?
+|3|Règles sociales strictes ou flexibles ?
+|4|Individualisme ou collectivisme ?
+|5|Mérite ou lignage?
+|6|Raison ou croyance / temps séquentiel ou temps synchrone
+|===
+
+==== Canevas Objet
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Apparence particulière
+|2|Utilité, impact de l'objet
+|3|Comment l'utiliser ?
+|4|A t'il de la valeur ? Rareté ?
+|5|S'use t'il ? Entretien, etc ....
+|6|A t'il un secret ?
+|===
+
+==== Canevas Sens
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Début d'une sensation (picotement, odeur,...)
+|2|Sens immédiat, réel (tu vois, tu sens, ...)
+|3|C'est un autre qui sent
+|4|Un sens puissant (très chaud, très froid, pestilentiel)
+|5|Perte du sens (aveuglé, sourd...)
+|6|Au delà du sens, 6eme sens, sens contradictoire
+|===
+
+=== Canevas de Genre
+
+Meme si l'on a un univers en tête, il peut être bon d'en rappeler les bases.
+
+Voici un canevas en 6 questions pour aider à déterminer un genre.
+
+On peut répondre à toutes les questions de maniere collégiale ou de manière individuelle en tirant une carte de 6 jusqu'à ce que l'ensemble des cartes aient été passées.
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Réel ou imaginaire ? Époque ?
+|2|Humain ou non humain ?
+|3|Action ou social ?
+|4|Puissant ou lambda ?
+|5|Foisonnant ou aride ? Sauvage ou exploité ?
+|6|Surnaturel ou pas ?
+|===
+
+A la fin, on discute des réponses pour déterminer le genre.
+
+===  Canevas de Monde
+
+Généralement, au fur et à mesure qu'on définit un élément, on en informe les autres pour que tout le monde puisse petit à petit s'accorder.
+
+Il ne s'agit pas d'être exhaustif mais de dresser ce que tout le monde connait ou ce que tout protagoniste connait du monde.
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Le lieu
+|2|Les habitants
+|3|Le contexte sociétal
+|4|Les pouvoirs en place, les opposants
+|5|L'économie, les ressources
+|6|Les mystères, les croyances, les secrets
+|===
+
+==== Canevas Drama
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Où ? Le terrain de jeu : lieux, tropes, chronologies ...
+|2|Qui ? Leviers sur les Protagonistes : leurs faiblesses surtout
+|3|Quoi ? Thématique/Propos
+|4|Comment ? Ton
+|5|Combien (ressources) ? Coffre a jouets, Jauges
+|6|Pourquoi ? Drama : comment les problèmes arrivent. Quels gains vont générer des ennuis.
+|===
+
+<<<
+
+==== Template de canevas
+
+Un canevas générique qui reprend tout simplement le sens des six.
+
+[.stripes-even,cols="1,3,20"]
+|===
+|1|Où ?| Début, Surface, Origine, Terreau
+|2|Qui ?| Base, Coeur, Principal, Acteur
+|3|Quoi ?| Interaction, Relations
+|4|Comment| ? Hiérarchie, Organisation
+|5|Combien ?| Moyens, Ressources
+|6|Pourquoi ?| Autre, Inattendu, Caché, Inattendu
+|===
+
+Voici deux canevas un peu atypiques pour illustrer à quel point le modèle en six peut être fécond en terme de jeu:
+
+====== Exemple: Plan de campagne politique
+
+Un canevas pour les actions possibles d'un candidat lors d'une campagne politique.
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Meeting
+|2|Ralliements, alliances
+|3|Déclaration choc
+|4|Laver son image
+|5|Récolte de fonds
+|6|Révéler un scandale
+|===
+
+====== Exemple: Événements de campagne politique
+
+Un canevas qui donne des pistes pour générer les coups du sort politiques.
+
+[.stripes-even,cols="1,20"]
+|===
+|1|Découverte : réagir à l'actualité du jour
+|2|Pris a parti : poignardé, trahi
+|3|Mission : attaqué par un autre candidat
+|4|Hors-champ : ce que font les autres engendre une baisse dans les sondages
+|5|Contretemps : signatures, financement, probleme d'organisation, de management
+|6|Rebondissement : éclaboussé par un scandale
+|===
 
 
-=== Résoudre
+
+== Résoudre
 
 Ce sont les règles du système de résolution de Spin.
 
-==== Facteurs clés
+=== Facteurs clés
 
 Quand un protagoniste est confronté à un obstacle, on traduit cela en opposition.
 
@@ -141,7 +370,7 @@ Si le nombre de dés du protagoniste est supérieur ou égal au nombre de dés d
 
 Si le nombre de dés du protagoniste est inférieur au nombre de dés de l'obstacle, on dit que le protagoniste est l'outsider.
 
-===== Comment déterminer les facteurs clés des obstacles
+==== Comment déterminer les facteurs clés des obstacles
 
 On commencer généralement par placer 1d pour chaque camp (dé bleu pour les Protagonistes, dé rouge pour l'obstacle). Puis on ajoute des dés de la meme couleur pour les avantages de chaque camp. Un handicap pour un camp devient un avantage pour l'autre. C'est aussi simple que cela. Si deux avantages s'équilibrent, cela ajoute 1d dans chaque camp.
 
@@ -157,13 +386,13 @@ _Exemples d'obstacles non personnifiés:_
 * _Fabriquer une potion: un laboratoire, des ingrédients, une recette_
 
 
-===== Joueur contre joueur
+==== Joueur contre joueur
 
 Il est possible qu'un protagoniste s'oppose à un autre. Dans ce cas, on considère que le protagoniste agresseur est l'obstacle, l'antagonisme du conflit et que le protagoniste agressé est le protagoniste du conflit. L'objectif de la résolution est donc celui de l'agressé.
 
 Mais dans ce cas, il n'y a pas lieu de recalculer le Destin sauf si la Destinée souhaite modifier l'équilibre de l'opposition en faisant intervenir des traits extérieurs pour tel ou tel camp. On pourra alors ajouter au destin la différence entre les dés ajoutés par la Destinée. _Exemple: si la Destinée ajoute un dé pour un joueur et ajoute deux dés pour l'autre joueur, on ajoutera un point de destin au final._
 
-===== Choix du zoom: action, séquence ou script
+==== Choix du zoom: action, séquence ou script
 
 Le système peut résoudre une action locale mais aussi toute une série d'actions étalées dans le temps (un plan donc).
 
@@ -185,7 +414,31 @@ Comment gérer les *scripts* et les *séquences*?
 
 La séquence ou le script peut ensuite être narré collectivement.
 
-==== Influence du Destin
+==== Les compétitions
+
+Ce type d'obstacle est un peu particulier car dans ce cas, les deux camps ont un même objectif voire même deux objectifs différents.
+
+On va donc comparer les résultats des résolutions de chaque camp face à l'obstacle.
+
+Chaque camp forme son pool face à son objectif (qui forme aussi son pool) et on compare les résultats, en sachant que **seul un succès ou un exploit permet de vraiment atteindre l'objectif**.
+
+Les succès et échecs *partiels* mesurent l'avancement en fournissant un avantage ou un handicap pour un autre lancer voire pour éventuellement expérimenter une autre stratégie.
+
+les **échecs** et les **fiascos** mettent de sérieux batons dans les roues au camp qui les subissent puisque pour rester dans la compétition, il faudra subir un ou des préjudices.
+
+En cas d'**égalité de succès ou d'exploit**, on peut exceptionnellement déclarer les compétiteurs ex aequo mais si l'égalité n'est pas possible fictionnellement, on peut déclarer gagnant in extremis le camp qui a la somme des résultats pairs la plus grande (en privilégiant les protagonistes en cas d'égalité absolue).
+
+_Exemple:_
+```
+Bob et John sont en compétition pour arriver avant l'autre dans le bureau du directeur situé à l'autre bout de la ville. Bob va utiliser son hélico et John va prendre sa moto.
+Bob: hélico, rapide vs trouver où se poser / John: moto, GSX-R  vs circulation.
+Bob obtient un échec et John un revers. Bob n'arrive pas à faire décoller l'hélico mais il décide de continuer et donc il finit par décoller mais son hélico a un sérieux problème d'assiette (préjudice: hélico dégradé I). John grille un feu et est pris en chasse par la police.
+On continue.
+Bob: hélico, rapide vs se poser (l'état dégradé de l'helico meme s'il vole bizarrement ne le gêne pas) / John: moto, GSX-R vs circulation, police.
+Cette fois les deux obtiennent un succès (6,4 pour Bob et 2,2 pour John). Bob se pose sur le toit et file vers le bureau, John a réussi à semer la police et arrive en bas de l'immeuble et fonce vers le bureau. Bob ouvre la porte du directeur et dix secondes plus tard John arrive essouflé. En cas d'égalité absolue on aurait pu imaginer Bob et John se ruant en même temps sur la porte du bureau!
+```
+
+=== Influence du Destin
 
 On ajoute au destin la différence entre le nombre de dés de l'obstacle et le nombre de dés du protagoniste.
 
@@ -199,14 +452,16 @@ On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur dif
 
 _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. On procède de la sorte: quand on a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duos rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés rouges (dés obstacles) donne la valeur négative du destin alors qu'un nombre de dés bleus (dés protagonistes) donne la valeur positive du destin._
 
-==== Jets de dés
+=== Jets de dés
 
 * Chaque camp jette ensuite les dés.
 * Pour chaque 6 obtenu, le camp peut lancer 1D supplémentaire.
 * Si lors de ces jets supplémentaires, un 6 apparait, on ne lance pas de dé supplémentaire.
 * On compte ensuite le nombre de chiffres pairs de chaque camp et on compare.
 
-==== Résultats
+<<<
+
+=== Résultats
 
 * En cas d'égalité:
 - Il n'y a aucun pair: c'est un **échec partiel**.
@@ -218,13 +473,13 @@ _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. O
 - strictement supérieur à deux fois le nombre de pairs du protagoniste (ou supérieur ou égal à 2 si le protagoniste n'a obtenu aucun pair): c'est un **fiasco**.
 - sinon: c'est un **échec**.
 
-==== Interprétation
+=== Interprétation
 
 [.stripes-even,cols="1,3,3,2,10"]
 |===
 |1| **Exploit** | _Waouh_, _Formidable_ | OUI ET | L'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait, impact fictionnel exceptionnel).
 |2|**Succès** | _Réussi_ | OUI | L'objectif est atteint. L'impact fictionnel est positif.
-|3|**Succès partiel** | _Mitigé_ | OUI MAIS | L'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
+|3|**Succès partiel** | _Mitigé_ | OUI MAIS | L'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé ou que le protagoniste refuse qu'il le soit, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
 |4|**Echec partiel** |_Gêné_| NON MAIS | L'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus).
 |5|**Echec** | _Raté_| NON | L'objectif n'est pas atteint. Suivant la fiction, on peut subir une perte. L'impact fictionnel est négatif.
 |6|**Fiasco** |_Oups_, _Déplorable_ | NON ET | L'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait, impact fictionnel désastreux).
@@ -246,26 +501,29 @@ Dans certains cas, on ne veut pas jouer la situation mais juste en connaitre l'i
 * Succès/Echec: fait probable
 * Exploit/Fiasco: fait improbable
 
-===== La question du loot (butin)
+```
+TIPS
+* Les fiascos/exploits relèvent de l'imprévu.
+* Les succès/échecs (partiels ou pas) relèvent du probable et s'appuie en général sur les facteurs clés de l'opposition.
+```
+
+==== La question du loot (butin)
 
 Très répandu dans le jeu de rôles, il s'agit de piller les ressources de l'adversaire vaincu. Cela paraît incompatible avec la règle des gains qui sont obtenus uniquement en cas d'exploit. On peut s'en sortir de la manière suivante:
 
 - distinguer les gains utiles uniquement pour la session en cours (donc non durables). Ces derniers peuvent être obtenus sur des succès simples.
 - utiliser le **jeu à somme nulle** pour justifier que des gains ne sont pas si utiles que ça: une armure trop lourde à porter ou qui n'est pas à sa taille, une arme qu'on ne sait pas vraiment utilisée, etc... Ainsi si le Protagoniste veut utiliser le gain il aura un avantage mais aussi un handicap (+1/+1 donc).
 
-==== Fortunes
+<<<
+
+=== Fortunes & Coups du sort
 
 * Quand le protagoniste est favori, on gagne 1 point de fortune en cas de fiasco.
 * Quand le protagoniste est l'outsider de l'opposition, on gagne 1 point de fortune en cas d'exploit.
-
-<<<
-
-==== Coups du sort
-
-Les coups du sort sont l'inverse des fortunes.
-
 * Quand le protagoniste est favori, on attire l'attention du Destin en cas d'exploit.
 * Quand le protagoniste est l'outsider de l'opposition, on attire l'attention du Destin en cas de fiasco.
+
+Quand on attire l'attention du Destin, cela signifie que la Destinée tire une carte Coup du sort qu'elle pourra jouer dès qu'elle veut.
 
 Le Destin souhaitant toujours revenir l'équilibre, il est attiré par les situations trop évidentes. Et pour changer les choses, il fournit dans ces cas des Coups du sort à la Destinée que celle-ci pourra utiliser pour changer l'ordre des choses. Ainsi quand on attire l'attention du Destin, on pioche une carte Coup du Sort (parmi les 6 possibles):
 
@@ -279,13 +537,52 @@ Le Destin souhaitant toujours revenir l'équilibre, il est attiré par les situa
 |6|Rebondissement
 |===
 
+== Evoluer
+
+Cette partie recense toutes les règles qui permettent à l'histoire d'évoluer.
+
+On joue pour voir ce qui va arriver. Les Protagonistes sont totalement libres de leurs choix et seuls les résultats des oppositions comptent.
+
+==== Utilisation du Destin (Destinée)
+
+Pour faire un choix d'orientation négatif ou positif, utilisez le Destin. Pour orienter vers quelque chose de négatif, cela coûtera un dé rouge. Pour orienter vers quelque chose de positif, cela coûtera un dé bleu. Si le Destin est égal à 0, demandez à un joueur de lancer un dé. Si le résultat est pair, l'orientation est positive, sinon elle est négative.
+
+==== Les jets d'orientation (Destinée)
+
+Les jets d'orientation sont la plupart du temps à l'initiative de la Destinée mais la plupart du temps lancés par un des Protagonistes.
+
+Le résultat est un résultat symbolique.
+
+L'idée sous-jacente est que l'on peut découper la complexité dans une projection à six dimensions, six directions et donc les six faces d'un dé.
+
+Six questions: Où, Qui, Quoi, Comment, Combien, Pourquoi qui équivalent à six champs: Lieu, Rencontre, Interaction, Organisation, Ressource, Objectif.
+
+Mais le découpage en six focus peut s'appliquer à toute catégorie du "réel" qu'on veut randomiser et forme donc un spectre à 6 bandes si l'on devait le comparer à quelque chose de plus physique.
+
+Vous trouverez ci-dessous une table représentant un certain nombre de catégories, mais nous invitons les joueurs de la Destinée à se faire un modèle mental du sens des 6 chiffres d'un dé pour pouvoir l'appliquer à n'importe quelle orientation.
+
+Ainsi lorsque la Destinée demande un jet d'orientation, il n'a plus qu'à se focaliser sur l'interprétation qu'il veut en donner en lisant la table.
+
+image::orientations.png[]
+
+=== Utilisation des Coups du sort (Destinée)
+
+Pour orienter le récit de manière qualitative, la Destinée peut utiliser un Coup du Sort. Une fois les objectifs des Protagonistes connus, la Destinée peut ainsi se focaliser sur un des coups du sort qu'elle a en main et cela va orienter le récit.
+
 La Destinée ne montre pas la carte Coup du Sort aux autres joueurs qu'elle a tirée et la conserve jusqu'à ce qu'elle soit jouée. La Destinée peut accumuler plusieurs cartes tant qu'elle ne les joue pas. Evidemment elle ne pourra avoir qu'au maximum 6 cartes, soit l'étendue complète des possibilités en terme de Coups du sort.
 
-==== Utilisation des fortunes
+Il est possible aussi pour la Destinée de jouer un coup du sort sans qu'il en possède la carte. Cela est possible de la manière suivante:
+
+* Suite à un fiasco.
+* Quand la Destinée estime que cela est intéressant pour l'histoire.
+
+Jouer un coup du sort sans en avoir la carte rapportera un point  de Destin aux Protagonistes.
+
+==== Utilisation des fortunes (Protagonistes)
 
 A tout moment:
 
-* On peut utiliser une fortune pour empêcher la Destinée de jouer un Coup du sort dans la scène et la faire défausser une carte Coup du sort.
+* On peut utiliser une fortune pour empêcher la Destinée de jouer un Coup du sort dans la scène.
 
 Lors d'une opposition:
 
@@ -294,229 +591,25 @@ Lors d'une opposition:
 Lors d'un répit ou en fin de session:
 
 * On peut utiliser 1 fortune pour obtenir, supprimer, modifier un trait. Les joueurs devront chercher à le justifier narrativement.
-* On peut utiliser 1 fortune pour diminuer une jauge. Comme pour les traits, il faudra le justifier narrativement.
-
-=== Orienter le récit
-
-Ensuite il s'agit d'orienter le récit. C'est plutôt à la Destinée que ces règles sont adressées.
-
-Pour faire un choix d'orientation négatif ou positif, utilisez le Destin. Pour orienter vers quelque chose de négatif, cela coûtera un dé rouge. Pour orienter vers quelque chose de positif, cela coûtera un dé bleu. Si le Destin est égal à 0, demandez à un joueur de lancer un dé. Si le résultat est pair, l'orientation est positive, sinon elle est négative.
-
-Pour orienter le récit de manière qualitative, la Destinée peut utiliser un Coup du Sort. Une fois les objectifs des Protagonistes connus, la Destinée peut ainsi se focaliser sur un des coups du sort qu'elle a en main et cela va orienter le récit.
-
-Il arrive pour autant que l'orientation du récit nécessite d'avoir plus d'informations. Dans ce cas, on pourra utiliser les jets d'orientation.
-
-<<<
-
-==== Jets d'orientation
-
-Les jets d'orientation sont la plupart du temps à l'initiative de la Destinée mais lancés par un des Protagonistes.
-
-Le résultat est un résultat symbolique.
-
-L'idée sous-jacente est que l'on peut découper la complexité dans une projection à six dimensions, six directions et donc les six faces d'un dé.
-
-Six questions: Où, Qui, Quoi, Comment, Combien, Pourquoi qui équivalent à six champs: Lieu, Rencontre, Interaction, Organisation, Ressource, Objectif.
-
-Mais le découpage en six focus peut s'appliquer à toute catégorie du "réel" qu'on veut randomiser.
-
-Vous trouverez ci-dessous une table représentant un certain nombre de catégories, mais nous invitons les joueurs de la Destinée à se faire un modèle mental du sens des 6 chiffres d'un dé pour pouvoir l'appliquer à n'importe quelle orientation.
-
-Ainsi lorsque la Destinée demande un jet d'orientation, il n'a plus qu'à se focaliser sur l'interprétation qu'il veut en donner en lisant la table.
-
-image::orientations.png[]
-
-<<<
-
-==== Canevas
-
-Les canevas reprennent le découpage en six aspects mais permettent d'établir un modèle pour créer des éléments fictionnels avec un semblant de complétude.
-
-Dans une histoire improvisée, les canevas sont forcément incomplets à leur création et c'est tout l'enjeu de la partie de les compléter au fur et à mesure des scènes.
-
-En procédant ainsi, on voit mieux où sont les blancs à combler et c'est plus facile pour la Destinée d'improviser l'histoire.
-
-Notez également trois autres canevas importants qui seront vus plus loin: le genre de la fiction, un personnage et le monde. Mais sachez qu'ils sont également basés sur le même modèle en six.
-
-===== Groupe, faction
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Quartiers généraux
-|2|Membres du groupe
-|3|Alliés et ennemis du groupe, relations au sein du groupe
-|4|Hiérarchie du groupe, gouvernance
-|5|Ressources et moyens du groupe
-|6|Objectif(s) du groupe
-|===
-
-===== Culture
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Universaliste ? Globalisant ou pas ?
-|2|Neutre, austère ou émotionnel, passionné ?
-|3|Règles sociales strictes ou flexibles ?
-|4|Individualisme ou collectivisme ?
-|5|Mérite ou lignage?
-|6|Raison ou croyance / temps séquentiel ou temps synchrone
-|===
-
-===== Objet
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Apparence particulière
-|2|Utilité, impact de l'objet
-|3|Comment l'utiliser ?
-|4|A t'il de la valeur ? Rareté ?
-|5|S'use t'il ? Entretien, etc ....
-|6|A t'il un secret ?
-|===
-
-===== Lieu
-
-[.stripes-even,cols="1,20"]
-|===
-|1|L'arrivée, l'aspect extérieur
-|2|Les caractéristiques intérieures  (architecture, déco, style, ambiance)
-|3|L'usage du lieu, les habitants du lieu
-|4|Les alentours du lieu
-|5|Les opportunités du lieu
-|6|Les secrets du lieu (histoire, passages secrets, etc...)
-|===
-
-===== Sens
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Début d'une sensation (picotement, odeur,...)
-|2|Sens immédiat, réel (tu vois, tu sens, ...)
-|3|C'est un autre qui sent
-|4|Un sens puissant (très chaud, très froid, pestilentiel)
-|5|Perte du sens (aveuglé, sourd...)
-|6|Au delà du sens, 6eme sens, sens contradictoire
-|===
-
-===== Template
-
-Un canevas générique qui reprend tout simplement le sens des six.
-
-[.stripes-even,cols="1,3,20"]
-|===
-|1|Où ?| Début, Surface, Origine, Terreau
-|2|Qui ?| Base, Coeur, Principal, Acteur
-|3|Quoi ?| Interaction, Relations
-|4|Comment| ? Hiérarchie, Organisation
-|5|Combien ?| Moyens, Ressources
-|6|Pourquoi ?| Autre, Inattendu, Caché, Inattendu
-|===
-
-Voici deux canevas un peu atypiques pour illustrer à quel point le modèle en six peut être fécond en terme de jeu:
-
-<<<
-
-===== Plan de campagne
-
-Un canevas pour les actions possibles d'un candidat lors d'une campagne politique.
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Meeting
-|2|Ralliements, alliances
-|3|Déclaration choc
-|4|Laver son image
-|5|Récolte de fonds
-|6|Révéler un scandale
-|===
-
-===== Événements de campagne
-
-Un canevas qui donne des pistes pour générer les coups du sort politiques.
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Découverte : réagir à l'actualité du jour
-|2|Pris a parti : poignardé, trahi
-|3|Mission : attaqué par un autre candidat
-|4|Hors-champ : ce que font les autres engendre une baisse dans les sondages
-|5|Contretemps : signatures, financement, probleme d'organisation, de management
-|6|Rebondissement : éclaboussé par un scandale
-|===
-
-=== Évoluer
-
-On joue pour voir ce qui va arriver. Les Protagonistes sont totalement libres de leurs choix et seuls les résultats des oppositions comptent.
-
-Avec l'aide des orientations, la Destinée a déjà de bons outils pour cadrer la partie.
-
-Pour autant, il est bon de rappeler ici certains outils utiles en cours de partie:
-
-* Les jauges forcent les protagonistes à réagir
-* La Destinée devrait noter sur une fiche l'ensemble des enjeux (sous forme de question) au fur et à mesure qu'ils apparaissent. Il est en effet facile de s'éparpiller si l'on en garde pas trace pour permettre aux protagonistes de les résoudre.
-* Les phases de répit sont des moments pour les Protagonistes pour consommer leurs fortunes et faire évoluer leur personnage.
+* On peut utiliser 1 fortune pour diminuer une jauge. Comme pour les traits, il faudra le justifier narrativement. Une fortune permet de passer de [.line-through]#II# à II, de II à I ou de I à la suppression de la jauge, indépendamment du nombre de divisions pour les jauges.
 
 == Jouer
 
 Voici le déroulement d'une partie étape par étape.
 
-=== Déterminer le genre
+=== Détermination du Genre
 
-Meme si l'on a un univers en tête, il peut être bon d'en rappeler les bases.
+On utilise pour cela le canevas Genre de manière collégiale (ou de manière random). On devrait aboutir à un genre.
 
-Voici un canevas en 6 questions pour aider à déterminer un genre.
+Cela permet également à la Destinée de commencer son canevas de Drama qui lui permettra de fixer ses intentions narratives en tant que meneur. Généralement, il gardera secrètes ses intentions narratives et elles seront développées au fil de la partie.
 
-On peut répondre à toutes les questions de maniere collégiale ou de manière individuelle en tirant une carte de 6 jusqu'à ce que l'ensemble des cartes aient été passées.
+=== Création du monde et des personnages.
 
-[.stripes-even,cols="1,20"]
-|===
-|1|Réel ou imaginaire ? Époque ?
-|2|Humain ou non humain ?
-|3|Action ou social ?
-|4|Puissant ou lambda ?
-|5|Foisonnant ou aride ? Sauvage ou exploité ?
-|6|Surnaturel ou pas ?
-|===
+Les Protagonistes utilisent chacun un canevas Personnage pour créer leur personnage et en parallèle la Destinée utilise le canevas Monde pour créer les grandes lignes de l'univers.
 
-A la fin, on discute des réponses pour déterminer le genre.
+Au fur et à mesure qu'un joueur remplit un élément du canevas, il en fait part aux autres joueurs pour que tout le monde s'accorde bien sur le cadre narratif de la partie.
 
-<<<
-
-===  Créer le monde et les protagonistes
-
-En parallèle, Destinée et Protagonistes procède à la création.
-
-Tout comme pour le genre, on peut procéder globalement ou tirer au sort chacun de son côté une carte de 6.
-
-Au fur et à mesure qu'on définit un élément, on en informe les autres pour que tout le monde puisse petit à petit s'accorder.
-
-==== Créer le monde
-
-Il ne s'agit pas d'être exhaustif mais de dresser ce que tout le monde connait ou ce que tout protagoniste connait du monde.
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Le lieu
-|2|Les habitants
-|3|Le contexte sociétal
-|4|Les pouvoirs en place, les opposants
-|5|L'économie, les ressources
-|6|Les mystères, les croyances, les secrets
-|===
-
-==== Créer un personnage
-
-Ce canevas de création de personnage est très ouvert et peut être utilisé pour créer un personnage non joueur (PNJ)
-
-[.stripes-even,cols="1,20"]
-|===
-|1|Son apparence, ses origines
-|2|Son occupation
-|3|Ses forces et faiblesses
-|4|Ses relations, son caractère, son appartenance à un groupe éventuellement
-|5|Ses possessions et moyens
-|6|Ses valeurs, croyances, cultes, magie, objectifs
-|===
+S'il y a plusieurs joueurs, il peut être intéressant de créer un canevas Groupe pour le groupe de joueurs et établir les liens qui les unissent. En cas de duo, le type de duo peut également être déterminé dans cette phase là.
 
 === Scène(s) de présentation
 
@@ -524,15 +617,15 @@ Les scènes de présentation sont optionnelles mais permettent de rentrer dans l
 
 Lorsque le monde et les protagonistes sont prêts, on peut jouer une scène de présentation. La scène peut être jouée dans le passé lointain ou dans un passé proche. Peu importe, cela permet de se rôder un peu avec la mécanique de jeu. Idéalement, la scène de présentation devrait contenir une opposition. On ne décompte pas le Destin dans les scènes de présentation. Le cadre (setting) de la scène peut venir du joueur ou de la Destinée.
 
-<<<
-
 === Le récit
 
 On peut ainsi démarrer le récit. La conversation commence. Souvent la Destinée demande simplement aux Protagonistes ce qu'ils sont en train de faire au moment où le récit commence.
 
 Vous trouverez ci-dessous un memento pour la Destinée et les Protagonistes.
 
-=== Options de la Destinée
+<<<
+
+==== Options de la Destinée
 
 [.stripes-even,cols="1,20"]
 |===
@@ -540,11 +633,11 @@ Vous trouverez ci-dessous un memento pour la Destinée et les Protagonistes.
 |2|Questionner les héros
 |3|Résoudre via une opposition
 |4|Utiliser le Destin pour orienter le récit
-|5|Procéder un jet d'orientation
+|5|Procéder à un jet d'orientation
 |6|Révéler un coup du sort
 |===
 
-=== Options des Protagonistes
+==== Options des Protagonistes
 
 [.stripes-even,cols="1,20"]
 |===
@@ -556,12 +649,16 @@ Vous trouverez ci-dessous un memento pour la Destinée et les Protagonistes.
 |6|Demander une résolution
 |===
 
+==== La question de l'intrigue
+
+Spin se veut être le plus ouvert pour les Protagonistes. Les joueurs ont un pouvoir total sur ce qu'il est possible de faire. Spin se joue donc a priori sans scénario préconçu. Cela n'empêche pas la Destinée d'avoir une intrigue en tête pour autant. Mais dans ce cas, jouer un coup du sort sans coup du sort disponible rapporte un point de Destin.
+
 == Règles avancées
 
 === Niveaux héroïques et mythiques
 
-* Certains talents, pouvoirs peuvent être héroïques. Dans ce cas, ils rapportent 2D.
-* On peut même envisager des talents, pouvoirs mythiques. Dans ce cas, ils rapportent 3D.
+* Certains talents, pouvoirs peuvent être héroïques, exceptionnels. Dans ce cas, ils rapportent 2D.
+* On peut même envisager des talents, pouvoirs mythiques, uniques. Dans ce cas, ils rapportent 3D.
 
 Quand on recalcule le Destin, on doit compter le nombre de dés et donc un talent héroïque coûte 2 points de destin et un talent mythique coûte 3 points de destin.
 
@@ -631,4 +728,4 @@ Cette règle est uniquement là pour pallier un éventuel déséquilibre et ne d
 
 === Pas de destin égal à zéro
 
-Cette règle (totalement optionnelle) ajoute comme contrainte que le Destin ne peut jamais être égal à zéro. Cela oblige narrativement à rajouter des facteurs clés pour ou contre pour emêcher l'équilibre.
+Cette règle (totalement optionnelle) ajoute comme contrainte que le Destin ne peut jamais être égal à zéro. Cela oblige narrativement à rajouter des facteurs clés pour ou contre pour empêcher l'équilibre.
