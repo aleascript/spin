@@ -80,7 +80,9 @@ Un Héros ou plus se réveillent sans souvenirs récents, et se retrouvent au c�
 [.underline]#Variations#
 
 * Les Héros se sont rendus amnésiques volontairement, et essayent de comprendre leur propre travail
-Base Cachée
+
+
+=== Base Cachée
 Les Héros, au cours d'un voyage ou d'une exploration, tombent sur un nid de Méchant qui préparent un Truc Méchant. Ils doivent relayer l'information aux Gentils, ou s'infiltrer et démanteler l'opération eux-mêmes, ou une combinaison des deux.
 Variations
 * Les Héros doivent comprendre comment utiliser des ressources locales pour se défendre ou avoir une chance contre les habitants.
